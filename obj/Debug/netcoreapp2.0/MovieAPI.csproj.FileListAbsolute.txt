@@ -1,0 +1,11 @@
+C:\Users\Adela.Mera\source\repos\MovieAPI\bin\Debug\netcoreapp2.0\MovieAPI.deps.json
+C:\Users\Adela.Mera\source\repos\MovieAPI\bin\Debug\netcoreapp2.0\MovieAPI.runtimeconfig.json
+C:\Users\Adela.Mera\source\repos\MovieAPI\bin\Debug\netcoreapp2.0\MovieAPI.runtimeconfig.dev.json
+C:\Users\Adela.Mera\source\repos\MovieAPI\bin\Debug\netcoreapp2.0\MovieAPI.dll
+C:\Users\Adela.Mera\source\repos\MovieAPI\bin\Debug\netcoreapp2.0\MovieAPI.pdb
+C:\Users\Adela.Mera\source\repos\MovieAPI\obj\Debug\netcoreapp2.0\MovieAPI.csproj.CoreCompileInputs.cache
+C:\Users\Adela.Mera\source\repos\MovieAPI\obj\Debug\netcoreapp2.0\MovieAPI.AssemblyInfoInputs.cache
+C:\Users\Adela.Mera\source\repos\MovieAPI\obj\Debug\netcoreapp2.0\MovieAPI.AssemblyInfo.cs
+C:\Users\Adela.Mera\source\repos\MovieAPI\obj\Debug\netcoreapp2.0\MovieAPI.dll
+C:\Users\Adela.Mera\source\repos\MovieAPI\obj\Debug\netcoreapp2.0\MovieAPI.pdb
+C:\Users\Adela.Mera\source\repos\MovieAPI\obj\Debug\netcoreapp2.0\MovieAPI.csprojAssemblyReference.cache
